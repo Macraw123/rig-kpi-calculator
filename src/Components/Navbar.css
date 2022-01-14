@@ -1,0 +1,17 @@
+/* ES - maaf zil kalo berantakan */
+
+.dropdown-menu {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(8px);
+    border-radius: 0.5rem;
+    padding: 0.25rem;
+}
+
+.dropdown-menu-dark .dropdown-item {
+    border-radius: 0.5rem;
+    font-weight: bold;
+}
+.navbar-dark .navbar-brand{
+    font-weight: bold;
+}
